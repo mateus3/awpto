@@ -11,6 +11,7 @@ function App() {
           Testowa aplikacja na APWTO <span role="img" aria-label="">👏</span>
         </p>
         <p>Huraaa DZIAŁA</p>
+        <p>Huraaa DZIAŁA</p>
       </header>
     </div>
   );
