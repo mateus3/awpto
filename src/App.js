@@ -12,6 +12,7 @@ function App() {
         </p>
         <p>Huraaa DZIAŁA</p>
         <p>Huraaa DZIAŁA</p>
+		<p>Huraaa DZIAŁA</p>
       </header>
     </div>
   );
