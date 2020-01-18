@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/awpto/static/css/main.b100e6da.chunk.css",
-    "main.js": "/awpto/static/js/main.1f17cd16.chunk.js",
-    "main.js.map": "/awpto/static/js/main.1f17cd16.chunk.js.map",
+    "main.js": "/awpto/static/js/main.ac5bd173.chunk.js",
+    "main.js.map": "/awpto/static/js/main.ac5bd173.chunk.js.map",
     "runtime-main.js": "/awpto/static/js/runtime-main.8c798421.js",
     "runtime-main.js.map": "/awpto/static/js/runtime-main.8c798421.js.map",
     "static/js/2.eb808ce8.chunk.js": "/awpto/static/js/2.eb808ce8.chunk.js",
     "static/js/2.eb808ce8.chunk.js.map": "/awpto/static/js/2.eb808ce8.chunk.js.map",
     "index.html": "/awpto/index.html",
-    "precache-manifest.e8dc3b0f513071c6eb307c0981ee7b21.js": "/awpto/precache-manifest.e8dc3b0f513071c6eb307c0981ee7b21.js",
+    "precache-manifest.91ba1d607b908f18eb1e64a1223f47e9.js": "/awpto/precache-manifest.91ba1d607b908f18eb1e64a1223f47e9.js",
     "service-worker.js": "/awpto/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/awpto/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/awpto/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8c798421.js",
     "static/js/2.eb808ce8.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.1f17cd16.chunk.js"
+    "static/js/main.ac5bd173.chunk.js"
   ]
 }
